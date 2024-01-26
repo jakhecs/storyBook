@@ -16,7 +16,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "storybook": "^7.6.10",
-    "vite-tsconfig-paths": "^3.3.13"
+    "vite-tsconfig-paths": "^3.6.0"
   },
   "devDependencies": {
     "@storybook/addon-essentials": "^7.6.10",
